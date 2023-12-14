@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "slider-5-client-side-solution",
+    "id": "4c65d132-637f-4259-af54-6289251c0bc7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "slider-5 description"
+      },
+      "longDescription": {
+        "default": "slider-5 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "slider-5 Feature",
+        "description": "The feature that activates elements of the slider-5 solution.",
+        "id": "32cd837d-3a56-4b80-b538-6bc1d7817fa6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/slider-5.sppkg"
+  }
+}
